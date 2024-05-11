@@ -2,6 +2,6 @@ streamlit
 pandas
 urlextract
 wordcloud
-emoji~=1.6.3
+emoji~=1.7.0
 regex
 matplotlib
