@@ -3,5 +3,5 @@ pandas
 urlextract
 wordcloud
 emoji
-re
+regex
 matplotlib
